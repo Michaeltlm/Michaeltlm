@@ -19,4 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeltlm&hide_progress=false)](https://github.com/Michaeltlm/github-readme-stats)
 
 Especialista em resolver problemas  
-##### Aprendiz de desenvolvedor 🧙📚💻
+
